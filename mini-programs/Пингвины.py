@@ -1,0 +1,6 @@
+value = int(input())
+print(value * '   _~_    ')
+print(value * '  (o o)   ')
+print(value * ' /  V  \  ')
+print(value * '/(  _  )\ ')
+print(value * '  ^^ ^^   ')
