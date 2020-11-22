@@ -1,0 +1,5 @@
+p = int(input())
+x = int(input())
+y = int(input())
+num = (x * 100 + y) + ((x * 100 + y) * (p / 100))
+print(int(num // 100), int(num % 100), sep=" ")
